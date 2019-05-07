@@ -43,3 +43,13 @@ $\therefore$
 $$
 \overrightarrow P=t\overrightarrow{OD}+\overrightarrow O
 $$
+伪代码：
+```
+color = backgroud.color
+if p != null
+    color = sphere.color
+```
+效果图：
+<div align=center>
+<img  height="300" width="300" src="https://raw.githubusercontent.com/CrazyCxl/ray-tracing/master/resource/images/raytracing-result-1.png"/>
+</div>
