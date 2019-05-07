@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/js">
+        <file>sphere.js</file>
+        <file>traceray.js</file>
+        <file>cxlmath.js</file>
+    </qresource>
+</RCC>
